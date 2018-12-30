@@ -1,0 +1,10 @@
+# Some common files on Linux / Max OSX system
+.DS_Store
+*.tmp
+*.swap
+__MACOSX/
+
+# Compressed/tar files
+*.tar.gz
+*.tgz
+*.zip
